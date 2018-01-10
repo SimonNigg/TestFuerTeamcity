@@ -1,0 +1,24 @@
+#surefire
+#Wed Jan 10 16:24:29 CET 2018
+testClassesDirectory=C\:\\environment\\workspace\\TestProjektFuerTeamcity\\target\\test-classes
+classPathUrl.2=C\:\\Users\\simon.nigg\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\environment\\workspace\\TestProjektFuerTeamcity\\target\\classes
+reportsDirectory=C\:\\environment\\workspace\\TestProjektFuerTeamcity\\target\\surefire-reports
+classPathUrl.0=C\:\\environment\\workspace\\TestProjektFuerTeamcity\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\environment\\workspace\\TestProjektFuerTeamcity\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\simon.nigg\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\simon.nigg\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.12.4\\surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.accenture.caf.TestProjektFuerTeamcity.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=C\:\\environment\\workspace\\TestProjektFuerTeamcity\\.surefire-089DBCE7BDA3710D8479891EFB43C78F27368B2B
+includes0=**/Test*.java
+childDelegation=false
