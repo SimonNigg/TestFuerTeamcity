@@ -21,7 +21,25 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+	<dependency>
+	  <groupId>com.amashchenko.maven.plugin</groupId>
+      <artifactId>gitflow-maven-plugin</artifactId>
+      <version>1.8.0</version>
+    </dependency>
   </dependencies>
+
+  <build>
+    <plugins>
+        <plugin>
+            <groupId>com.amashchenko.maven.plugin</groupId>
+            <artifactId>gitflow-maven-plugin</artifactId>
+            <version>1.8.0</version>
+            <configuration>
+                <!-- optional configuration -->
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
 
   
 <distributionManagement>
