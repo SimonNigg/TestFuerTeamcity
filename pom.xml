@@ -24,12 +24,17 @@
   </dependencies>
 
   
-  <distributionManagement>
+<distributionManagement>
     <repository>
         <id>central</id>
         <name>CPX-4OQJSD2BC67-releases</name>
-        <url>http://localhost:8081/artifactory/libs-release-local</url>
+        <url>http://localhost:8081/artifactory/libs-release</url>
     </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>CPX-4OQJSD2BC67-snapshots</name>
+        <url>http://localhost:8081/artifactory/libs-snapshot</url>
+    </snapshotRepository>
 </distributionManagement>
 
 </project>
