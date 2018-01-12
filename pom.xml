@@ -70,4 +70,10 @@
     </snapshotRepository>
 </distributionManagement>
 
+<scm>
+	<url>https://github.com/SimonNigg/TestFuerTeamcity</url>
+	<connection>scm:git:git://github.com/SimonNigg/TestFuerTeamcity.git</connection>
+	<developerConnection>scm:git:git@github.com:SimonNigg/TestFuerTeamcity.git</developerConnection>
+</scm>
+
 </project>
